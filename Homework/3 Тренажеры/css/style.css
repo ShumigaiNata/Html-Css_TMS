@@ -1,0 +1,106 @@
+
+                /* РАМКА 1   */
+                /*1 СПОСОБ*/
+div{
+   background: blueviolet;
+}
+
+p{
+    border-style: double ;
+    color: white;
+    padding: 20px 20px;
+}
+
+                /*!* 2 СПОСОБ*!*/
+/*!*.text{*!*/
+/*!*    background: blue;*!*/
+/*!*    color: aliceblue;*!*/
+/*!*    padding: 10px;*!*/
+/*!*    border: 6px double aliceblue;*!*/
+/*!*}*!*/
+/*.............................................*/
+
+
+/*               !*ТАБЛИЦА 2*!*/
+/*tr.name td{*/
+/*    text-align: center;*/
+/*    padding: 2px 10px;*/
+/*    font-weight: bold;*/
+/*    border: none;*/
+
+/*}*/
+/*table{*/
+/*    border-collapse: collapse;*/
+/*    width: 80%;*/
+/*    margin: auto;*/
+/* }*/
+
+/*td {*/
+/*    border: 1px solid black;*/
+/*}*/
+
+/* tr :nth-child(3n){*/
+/*    text-align: center;*/
+/*}*/
+
+
+
+               /*ТАБЛИЦА 3*/
+/*table {*/
+/*    width: 500px;*/
+/*    background: yellowgreen;*/
+/*    border-collapse: collapse;*/
+/*}*/
+
+/*.one{*/
+/*    text-align: center;*/
+/*    font-weight: bold;*/
+/*}*/
+
+/*td{*/
+/*    padding: 2px;*/
+/*    border: 2px solid white;*/
+/*}*/
+
+/*               !*Семь чудес света, таблица  4*!*/
+/* li{*/
+/*     background: burlywood;*/
+/*     width: 300px;*/
+/*     padding: 10px;*/
+/*     border-collapse: collapse;*/
+/*     border: 1px solid white;*/
+/*     list-style-type: none;*/
+/*     color: azure;*/
+/* }*/
+
+/* .one{*/
+/*     border-radius: 10px 10px 0 0;*/
+/*   }*/
+
+/*.last{*/
+/*    border-radius: 0 0 10px 10px;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

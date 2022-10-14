@@ -1,0 +1,21 @@
+.name{
+    color: red;
+}
+
+p{
+    color: blueviolet;
+}
+
+.nav-list{
+    display: block;
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
+}
+.social__item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

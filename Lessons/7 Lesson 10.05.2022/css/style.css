@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.block{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.link-btn{
+    background: yellowgreen;
+    padding: 20px 0 20px;
+    margin: 70px;
+}

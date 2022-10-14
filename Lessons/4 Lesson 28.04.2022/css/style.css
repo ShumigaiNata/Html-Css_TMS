@@ -1,0 +1,33 @@
+/*                          !*Для картинок!*!*/
+/**{*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*}*/
+
+/*.block{*/
+/*  width: 1200px;*/
+/*  height: 500px;*/
+/*  margin: 0 auto;*/
+/*  border: 2px solid yellowgreen;*/
+/*  background: url("../img/210.jpg");*/
+/*  !*background-repeat: no-repeat; !*не повторяется*!*!*/
+/*  !*background-position: center;*!*/
+/*  !*background-size: cover;   !*растягивается с центра, так как прописано   background-position: center;*!*!*/
+/*  !*background-repeat-x: repeat; !*повторяется только по горизонтали или по вертикале -y*!*!*/
+/*  !*background-position: 10px 25px;  !*перемещать по экрану или проценты *!*!*/
+/*  !*background-attachment: fixed;  фиксация изображения*!*/
+/*  !*background-attachment: scroll;  скролится изображения*!*/
+/*  !*background-position: 10px 25px 0 10px; если заданы 2 картинки через запятую, то это обращение к 2 картинкам 10px25px и 0 10px*!*/
+
+/*}*/
+
+
+div{
+    width: 100px;
+    height: 230px;
+    background: yellowgreen;
+    margin: 20px;
+    padding: 30px;
+    border:5px solid red;
+
+}
